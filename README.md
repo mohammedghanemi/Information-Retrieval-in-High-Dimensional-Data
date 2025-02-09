@@ -30,14 +30,4 @@ By the end of this course, students will:
 - Be capable of **implementing these techniques in Python**.
 - Apply methods in **image processing** and **natural language processing** tasks, providing paradigms for analyzing high-dimensional data.
 
----
-
-## Skill Development
-
-In addition to technical skills, the lab course offers students opportunities to:
-
-- **Improve presentation and teamwork skills**.
-- **Design posters** or **PowerPoint presentations** to effectively communicate their findings.
-
----
 
